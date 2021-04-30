@@ -13,5 +13,6 @@ main.py  # train and predict / 数据预处理
 
 
 # 已训练模型
-AlexNet相关模型详见 https://drive.google.com/drive/folders/1nTjPGFVWRU8WJBtWGZxMgWzcAVpmNxWz?usp=sharing
+AlexNet相关模型详见 https://drive.google.com/drive/folders/1nTjPGFVWRU8WJBtWGZxMgWzcAVpmNxWz?usp=sharing  
+
 GoogLeNet / ResNet / SE block相关训练模型 见model文件夹 
