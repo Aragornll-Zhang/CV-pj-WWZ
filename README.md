@@ -1,5 +1,5 @@
 # CV-pj-WWZ
-cv pj 
+
 # 第一部分代码:
 
 Alexnet.py 和 Alexnet.ipynb 内容一致，： # 以AlexNet为基础，训练神经网络，探究超参数/优化器/等影响
