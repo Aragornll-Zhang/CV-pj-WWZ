@@ -19,3 +19,9 @@ main.py  # train and predict / 数据预处理
 AlexNet相关模型详见 https://drive.google.com/drive/folders/1nTjPGFVWRU8WJBtWGZxMgWzcAVpmNxWz?usp=sharing  
 
 GoogLeNet / ResNet / SE block相关训练模型 见model文件夹 
+
+
+# ------------------------------------------------
+# 期中pj 的补充（我们不多卷！！！（即用Attention试图替代一波CNN
+
+具体代码见 Attention.py
